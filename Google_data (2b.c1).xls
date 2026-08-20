@@ -1,0 +1,11 @@
+ID,Name,Department,Age,Salary,City
+101,Alice,HR,25,35000,Chennai
+102,Bob,IT,30,50000,Bengaluru
+103,Charlie,Finance,28,45000,Hyderabad
+104,David,IT,,55000,Mumbai
+105,Eva,Marketing,26,,Delhi
+106,Frank,HR,31,48000,Kolkata
+107,Grace,Finance,29,52000,
+108,Henry,IT,27,47000,Pune
+109,Ivy,Marketing,24,39000,Chennai
+110,Jack,HR,32,60000,Bengaluru
